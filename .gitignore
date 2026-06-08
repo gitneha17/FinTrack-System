@@ -1,0 +1,23 @@
+# Java
+*.class
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+
+# Build folders
+bin/
+out/
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ
+.idea/
+
+# Temporary files
+*.log
